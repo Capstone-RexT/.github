@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there. We are RexT 👋
 
 ### Team Introduction
 We are Team16 RexT from Ewha Womans University, working on innovative projects to enhance security in satellite networks. Our team consists of:
-- **곽현정**: Project manager, model architecture exploration, and Llama model implementation.
-- **강호성**: Fingerprinting model design and implementation.
-- **홍지우**: Network vulnerability analysis, traffic analysis, and Fingerprinting model design and implementation.
+- **[곽현정](mailto:2171003@ewhain.net)**: Project manager, model architecture exploration, and Llama model implementation
+- **강호성**: Fingerprinting model design and implementation
+- **홍지우**: Network vulnerability analysis, traffic analysis, and Fingerprinting model design and implementation
 
 ### Current Project: Starprint
 Our current project, **Starprint**, aims to prevent privacy leaks through satellite internet hacking by utilizing Website Fingerprinting techniques to analyze security vulnerabilities in the Starlink network. This project contributes both academically and practically to the enhancement of satellite network security.
